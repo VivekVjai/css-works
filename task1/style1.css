@@ -1,0 +1,15 @@
+.text-success{
+    color: green;
+   
+}
+
+.text-safe{
+    color:white;
+    
+}
+
+body{
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+}

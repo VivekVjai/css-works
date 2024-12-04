@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+    color: black;
+    border: 2px solid black;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

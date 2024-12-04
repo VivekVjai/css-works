@@ -1,0 +1,23 @@
+#first{
+    color: peru;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+
+#second{
+    color: mediumseagreen;
+    text-decoration: dotted;text-align: center;
+}
+
+.text-danger{
+    color: red;
+}
+
+.text-success{
+    color: green;
+}
+
+.text-dec-underline{
+    text-decoration: underline;
+}

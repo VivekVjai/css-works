@@ -1,0 +1,17 @@
+.box{
+
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background-color: aqua;
+}
+
+
+.box1{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.box2{
+    margin-left: auto;
+}

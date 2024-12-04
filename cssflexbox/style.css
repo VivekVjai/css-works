@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+}
+
+.row{
+    border: 2px solid black;
+    width: 75%;
+    height: 250px;
+    background-color: aqua;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    display: flex;
+    /*justify-content: space-around;*/
+    /*justify-content: space-between;*/
+    justify-content: space-evenly;
+    /*align-items: flex-end;*/
+    /*align-items: center;*/
+    align-items: flex-start;
+}
+
+.col{
+    border: 1px black solid;
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+
+    display: flex;  /*one two three nae oka box ntae centerilekku kondu veran */
+    justify-content: center;
+    align-items: center;
+}
